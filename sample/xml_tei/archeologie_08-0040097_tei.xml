@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:ns="http://standoff.proposal">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="fr">Les couches supérieures de la micoque (Dordogne)</title>
+            <title type="alt" xml:lang="en">Upper levels of la micoque (Dordogne)</title>
+            <respStmt>
+               <resp>Extraction de la base Inist Exodic</resp>
+               <persName>
+                  <forename>Flora</forename>
+                  <surname>Badin</surname>
+               </persName>
+               <persName>
+                  <forename>Nicolas</forename>
+                  <surname>Thouvenin</surname>
+               </persName>
+               <persName>
+                  <forename>Nourdine</forename>
+                  <surname>Combo</surname>
+               </persName>
+               <persName>
+                  <forename>Sabine</forename>
+                  <surname>Barreaux</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+                <orgName>Inist-CNRS</orgName>
+                <orgName>Lina</orgName>
+                <orgName>Inria</orgName>
+            </authority>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0/">
+                   <p>The Creative Commons Attribution 4.0 International License applies to this document.</p>
+                   <p>Any re-use of this resource should attribute its content to <q>ANR-12-CORD-0029</q></p>
+               </licence>
+            </availability>
+            <idno type="documentnumber">08-0040097</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct type="article">
+               <analytic>
+                  <title type="main" xml:lang="fr">Les couches supérieures de la micoque (Dordogne)</title>
+                  <title type="alt" xml:lang="en">Upper levels of la micoque (Dordogne)</title>
+                  <author>
+                     <persName>
+                        <forename>Gaëlle</forename>
+                        <surname>ROSENDAHL</surname>
+                     </persName>
+                     <affiliation>
+                        <orgName>Reiss-Engelhorn-Museen, C5 Zeughaus</orgName>
+                        <address>
+                           <settlement>68159 Mannheim</settlement>
+                           <country>DEU</country>
+                        </address>
+                     </affiliation>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j" type="main">Paléo (Les Eyzies de Tayac-Sireuil)</title>
+                  <idno type="issn">1145-3370</idno>
+                  <idno type="url">http://cat.inist.fr/?aModele=afficheN&amp;cpsidt=18748761</idno>
+                  <meeting/>
+                  <imprint>
+                     <pubPlace>
+                        <settlement>Les Eyzies de Tayac-Sireuil</settlement>
+                        <country>FRA</country>
+                     </pubPlace>
+                     <biblScope unit="issue">18</biblScope>
+                     <biblScope unit="pp" from="161" to="192">161-192</biblScope>
+                     <date type="published" when="2006">2006</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+          <projectDesc>
+              <p>TermITH (ANR-12-CORD-0029 - Contint) est un projet ANR se déroulant sur 3 ans et demi
+                 (2012 - 2016) avec pour objectif de faciliter l'indexation automatique de textes en
+                 sciences humaines et sociales en français en s'appuyant sur les termes qu'ils
+                 contiennent.</p>
+              <p>Le présent document fait partie du corpus TermITH-Eval sur lequel différentes
+                 méthodes d'indexation développées dans TermITH sont testées.</p>
+          </projectDesc>
+          <editorialDecl>
+              <normalization>
+                  <p>L'élément teiHeader contient la notice bibliographique de l'Inist-CNRS</p>
+                  <p>Les éléments ns:standOff contiennent les résultats d'indexation produits par
+                     différentes méthodes testées par le Lina</p>
+                  <p>Les éléments ns:standOff/ns:standOff contiennent les évaluations réalisées par
+                     l'Inist-CNRS sur ces indexations</p>
+              </normalization>
+          </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fr">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="cc">
+               <term>52536</term>
+               <term>Industrie lithique.</term>
+               <term>525II</term>
+               <term>METHODOLOGIE ET ETUDES GENERALES</term>
+               <term>525</term>
+               <term>PREHISTOIRE ET PROTOHISTOIRE</term>
+            </keywords>
+            <keywords scheme="inist-francis" xml:lang="fr">
+               <term xml:id="ikwfr1" type="controlled" corresp="#Europe">Europe</term>
+               <term xml:id="ikwfr2" type="controlled" corresp="#MiddlePalaeolithic">Paléolithique moyen</term>
+               <term xml:id="ikwfr3" type="controlled" corresp="#France">France</term>
+               <term xml:id="ikwfr4" type="uncontrolled">La Micoque</term>
+               <term xml:id="ikwfr5" type="controlled" corresp="#Object">Objet</term>
+               <term xml:id="ikwfr6" type="controlled" corresp="#Flake">Eclat</term>
+               <term xml:id="ikwfr7" type="controlled" corresp="#Lingot">Lingot</term>
+               <term xml:id="ikwfr8" type="controlled" corresp="#Core">Nucleus</term>
+               <term xml:id="ikwfr9" type="controlled" corresp="#Debitage">Débitage</term>
+               <term xml:id="ikwfr10" type="controlled" corresp="#Sedimentation">Sédimentation</term>
+               <term xml:id="ikwfr11" type="controlled" corresp="#Wear">Usure</term>
+               <term xml:id="ikwfr12" type="controlled" corresp="#Levallois">Levallois</term>
+               <term xml:id="ikwfr13" type="controlled" corresp="#Stratigraphy">Stratigraphie</term>
+               <term xml:id="ikwfr14" type="controlled" corresp="#Site">Site</term>
+               <term xml:id="ikwfr15" type="controlled" corresp="#Dordogne">Dordogne</term>
+               <term xml:id="ikwfr16" type="controlled" corresp="#Micoquian">Micoquien</term>
+            </keywords>
+            <keywords scheme="inist-francis" xml:lang="en">
+               <term type="controlled" xml:id="Europe">Europe</term>
+               <term type="controlled" xml:id="MiddlePalaeolithic">Middle Palaeolithic</term>
+               <term type="controlled" xml:id="France">France</term>
+               <term type="controlled" xml:id="Object">Object</term>
+               <term type="controlled" xml:id="Flake">Flake</term>
+               <term type="controlled" xml:id="Lingot">Lingot</term>
+               <term type="controlled" xml:id="Core">Core</term>
+               <term type="controlled" xml:id="Debitage">Debitage</term>
+               <term type="controlled" xml:id="Sedimentation">Sedimentation</term>
+               <term type="controlled" xml:id="Wear">Wear</term>
+               <term type="controlled" xml:id="Levallois">Levallois</term>
+               <term type="controlled" xml:id="Stratigraphy">Stratigraphy</term>
+               <term type="controlled" xml:id="Site">Site</term>
+               <term type="controlled" xml:id="Dordogne">Dordogne</term>
+               <term type="controlled" xml:id="Micoquian">Micoquian</term>
+            </keywords>
+         </textClass>
+         <abstract xml:lang="fr">
+            <p>La couche 6 (N) du site de La Micoque, découvert en 1895, est la couche éponyme du Micoquien dont la définition varie fortement selon les auteurs. Cette couche 6 n'est cependant plus accessible sur le terrain et l'ancienneté des fouilles ainsi que la dispersion des pièces dans le monde entier rendent difficile une définition de son contenu. En outre, le système stratigraphique d'un des fouilleurs principaux, Hauser, n'avait jusqu'à présent pas pu être raccordé aux autres stratigraphies. Ce système correspond cependant presque parfaitement à la stratigraphie connue et documente en outre la présence de deux couches sus-jacentes (7 et 8). Le contenu de ces trois couches est étudié ici. Elles diffèrent fortement en ce qui concerne l'usure et le fractionnement des pièces, ce qui permet de les intégrer dans le système de sédimentation proposé pour La Micoque et consistant en une alternance de dépôts de versant et de dépôts fluviatiles de haute énergie. Ceci indique que l'âge des couches 6 et 7 au moins n'est probablement que légèrement inférieur à celui des couches sous-jacentes. L'étude typo-technologique des couches 6, 7 et 8 a démontré que celles-ci ne diffèrent guère l'une de l'autre, tant du point de vue du débitage, qui contient très peu de Levallois, du Discoïde, des nucléus en forme de lingot et un débitage opportuniste de courtes séries d'éclats, que du point de vue typologique. Seule la présence de nombreux objets bifaciaux dans la couche 6 la différencie clairement des deux autres. Ces outils bifaciaux obéissent à deux schémas conceptuels différents, permettant de produire soit des bifaces, soit des couteaux bifaciaux. Ces caractéristiques permettent de placer l'industrie de la couche 6 dans le Micoquien, maintenant appelé Keilmessergruppen (KMG), mais se pose la question de la pertinence d'une attribution " culturelle " sur la seule base de la présence ou de l'absence de certains éléments dits diagnostiques, en ce cas les outils bifaciaux.</p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <ns:standOff xml:id="mi2">
+      <ns:soHeader>
+         <encodingDesc>
+            <appInfo>
+               <application ident="lina-3:notice:topicrank:sequences_nom_adj" version="1.0">
+                  <label>lina-3:notice:topicrank:sequences_nom_adj</label>
+               </application>
+            </appInfo>
+         </encodingDesc>
+         <titleStmt>
+            <title>Indexation TermITH</title>
+            <author role="IndexingEditor">LINA</author>
+         </titleStmt>
+      </ns:soHeader>
+      <!-- termes-cles -->
+      <ns:annotations>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw1">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">couches supérieures</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw2">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">présence</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw3">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">micoque</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw4">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">système stratigraphique</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw5">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">nombreux objets bifaciaux</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw6">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">seule</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw7">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">contenu</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw8">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">définition</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw9">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">pièces</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw10">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">outils bifaciaux</term>
+               </tig>
+            </langSet>
+         </termEntry>
+      </ns:annotations>
+   <ns:standOff>
+<!--standOff subordonné au standOff principal-->
+    <ns:soHeader>
+        <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+            <appInfo>
+            <!--nom de l'outil d'évaluation-->
+                <application ident="idefix" version="7.9.1">
+                    <label>idefix</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+            <title>évaluation indexation</title>
+            <author role="IndexingEvaluator">INIST</author>
+        </titleStmt>
+    </ns:soHeader>
+    <ns:annotations>
+        <ns:annotationGrp type="pertinence">
+            <span from="#mi2kw1">
+                <num type="pertinence">0</num>
+            </span>
+            <span from="#mi2kw2">
+                <num type="pertinence">0</num>
+            </span>
+            <span from="#mi2kw3">
+                <num type="pertinence">1</num>
+                <link type="INISTForm" target="#ikwfr4"/>
+                <note>(P) Forme préférée dans le texte : La Micoque</note>
+            </span>
+            <span from="#mi2kw4">
+                <num type="pertinence">2</num>
+                <link type="INISTForm" target="#ikwfr13"/>
+            </span>
+            <span from="#mi2kw5">
+                <num type="pertinence">1</num>
+                <link type="INISTForm" target="#ikwfr5"/>
+                <note>(P) Forme préférée dans le texte : objets bifaciaux</note>
+            </span>
+            <span from="#mi2kw6">
+                <num type="pertinence">0</num>
+            </span>
+            <span from="#mi2kw7">
+                <num type="pertinence">0</num>
+            </span>
+            <span from="#mi2kw8">
+                <num type="pertinence">0</num>
+            </span>
+            <span from="#mi2kw9">
+                <num type="pertinence">0</num>
+            </span>
+            <span from="#mi2kw10">
+                <num type="pertinence">2</num>
+            </span>
+        </ns:annotationGrp>
+        <ns:annotationGrp type="silence">
+            <span from="#ikwfr1">
+                <num type="silence">1</num>
+                <note>(S) Générique.</note>
+            </span>
+            <span from="#ikwfr2">
+                <num type="silence">1</num>
+                <note>(S) Générique.</note>
+            </span>
+            <span from="#ikwfr3">
+                <num type="silence">1</num>
+                <note>(S) Générique.</note>
+            </span>
+            <span from="#ikwfr4">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi2kw3"/>
+            </span>
+            <span from="#ikwfr5">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi2kw5"/>
+            </span>
+            <span from="#ikwfr6">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr7">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr8">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr9">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr10">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr11">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr12">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr13">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi2kw4"/>
+            </span>
+            <span from="#ikwfr14">
+                <num type="silence">0</num>
+                <note>Trop générique.</note>
+            </span>
+            <span from="#ikwfr15">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr16">
+                <num type="silence">2</num>
+            </span>
+        </ns:annotationGrp>
+    </ns:annotations>
+</ns:standOff></ns:standOff>
+   <ns:standOff xml:id="mi1">
+      <ns:soHeader>
+         <encodingDesc>
+            <appInfo>
+               <application ident="lina-3:notice:tfidf:sequences_nom_adj" version="1.0">
+                  <label>lina-3:notice:tfidf:sequences_nom_adj</label>
+               </application>
+            </appInfo>
+         </encodingDesc>
+         <titleStmt>
+            <title>Indexation TermITH</title>
+            <author role="IndexingEditor">LINA</author>
+         </titleStmt>
+      </ns:soHeader>
+      <!-- termes-cles -->
+      <ns:annotations>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw1">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">micoque</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw2">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">trois couches</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw3">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">outils bifaciaux</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw4">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">couteaux bifaciaux</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw5">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">micoquien</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw6">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">nombreux objets bifaciaux</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw7">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">système</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw8">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">contenu</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw9">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">seule</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw10">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">définition</term>
+               </tig>
+            </langSet>
+         </termEntry>
+      </ns:annotations>
+   <ns:standOff>
+<!--standOff subordonné au standOff principal-->
+    <ns:soHeader>
+        <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+            <appInfo>
+            <!--nom de l'outil d'évaluation-->
+                <application ident="idefix" version="7.9.1">
+                    <label>idefix</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+            <title>évaluation indexation</title>
+            <author role="IndexingEvaluator">INIST</author>
+        </titleStmt>
+    </ns:soHeader>
+    <ns:annotations>
+        <ns:annotationGrp type="pertinence">
+            <span from="#mi1kw1">
+                <num type="pertinence">1</num>
+                <link type="INISTForm" target="#ikwfr4"/>
+                <note>(P) Forme préférée dans le texte : La Micoque</note>
+            </span>
+            <span from="#mi1kw2">
+                <num type="pertinence">0</num>
+            </span>
+            <span from="#mi1kw3">
+                <num type="pertinence">2</num>
+            </span>
+            <span from="#mi1kw4">
+                <num type="pertinence">2</num>
+            </span>
+            <span from="#mi1kw5">
+                <num type="pertinence">2</num>
+                <link type="INISTForm" target="#ikwfr16"/>
+            </span>
+            <span from="#mi1kw6">
+                <num type="pertinence">1</num>
+                <link type="INISTForm" target="#ikwfr5"/>
+                <note>(P) Forme préférée dans le texte : objets bifaciaux</note>
+            </span>
+            <span from="#mi1kw7">
+                <num type="pertinence">1</num>
+                <link type="INISTForm" target="#ikwfr13"/>
+                <note>(P) Forme préférée dans le texte : système stratigraphique</note>
+            </span>
+            <span from="#mi1kw8">
+                <num type="pertinence">0</num>
+            </span>
+            <span from="#mi1kw9">
+                <num type="pertinence">0</num>
+            </span>
+            <span from="#mi1kw10">
+                <num type="pertinence">0</num>
+            </span>
+        </ns:annotationGrp>
+        <ns:annotationGrp type="silence">
+            <span from="#ikwfr1">
+                <num type="silence">1</num>
+                <note>(S) Générique.</note>
+            </span>
+            <span from="#ikwfr2">
+                <num type="silence">1</num>
+                <note>(S) Générique.</note>
+            </span>
+            <span from="#ikwfr3">
+                <num type="silence">1</num>
+                <note>(S) Générique.</note>
+            </span>
+            <span from="#ikwfr4">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi1kw1"/>
+            </span>
+            <span from="#ikwfr5">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi1kw6"/>
+            </span>
+            <span from="#ikwfr6">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr7">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr8">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr9">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr10">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr11">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr12">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr13">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi1kw7"/>
+            </span>
+            <span from="#ikwfr14">
+                <num type="silence">0</num>
+                <note>Trop générique.</note>
+            </span>
+            <span from="#ikwfr15">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr16">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi1kw5"/>
+            </span>
+        </ns:annotationGrp>
+    </ns:annotations>
+</ns:standOff></ns:standOff>
+   <ns:standOff xml:id="mi4">
+      <ns:soHeader>
+         <encodingDesc>
+            <appInfo>
+               <application ident="lina-3:notice:kea:sequences_nom_adj" version="1.0">
+                  <label>lina-3:notice:kea:sequences_nom_adj</label>
+               </application>
+            </appInfo>
+         </encodingDesc>
+         <titleStmt>
+            <title>Indexation TermITH</title>
+            <author role="IndexingEditor">LINA</author>
+         </titleStmt>
+      </ns:soHeader>
+      <!-- termes-cles -->
+      <ns:annotations>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw1">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">micoque</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw2">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">micoquien</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw3">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">site</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw4">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">dordogne</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw5">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">couches supérieures</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw6">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">1895</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw7">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">système</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw8">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">couche éponyme</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw9">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">auteurs</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw10">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">définition</term>
+               </tig>
+            </langSet>
+         </termEntry>
+      </ns:annotations>
+   <ns:standOff>
+<!--standOff subordonné au standOff principal-->
+    <ns:soHeader>
+        <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+            <appInfo>
+            <!--nom de l'outil d'évaluation-->
+                <application ident="idefix" version="7.9.1">
+                    <label>idefix</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+            <title>évaluation indexation</title>
+            <author role="IndexingEvaluator">INIST</author>
+        </titleStmt>
+    </ns:soHeader>
+    <ns:annotations>
+        <ns:annotationGrp type="pertinence">
+            <span from="#mi4kw1">
+                <num type="pertinence">1</num>
+                <link type="INISTForm" target="#ikwfr4"/>
+                <note>(P) Forme préférée dans le texte : La Micoque</note>
+            </span>
+            <span from="#mi4kw2">
+                <num type="pertinence">2</num>
+                <link type="INISTForm" target="#ikwfr16"/>
+            </span>
+            <span from="#mi4kw3">
+                <num type="pertinence">0</num>
+                <link type="INISTForm" target="#ikwfr14"/>
+                <note>Trop générique.</note>
+            </span>
+            <span from="#mi4kw4">
+                <num type="pertinence">2</num>
+                <link type="INISTForm" target="#ikwfr15"/>
+            </span>
+            <span from="#mi4kw5">
+                <num type="pertinence">0</num>
+            </span>
+            <span from="#mi4kw6">
+                <num type="pertinence">0</num>
+            </span>
+            <span from="#mi4kw7">
+                <num type="pertinence">1</num>
+                <link type="INISTForm" target="#ikwfr13"/>
+                <note>(P) Forme préférée dans le texte : système stratigraphique</note>
+            </span>
+            <span from="#mi4kw8">
+                <num type="pertinence">0</num>
+            </span>
+            <span from="#mi4kw9">
+                <num type="pertinence">0</num>
+            </span>
+            <span from="#mi4kw10">
+                <num type="pertinence">0</num>
+            </span>
+        </ns:annotationGrp>
+        <ns:annotationGrp type="silence">
+            <span from="#ikwfr1">
+                <num type="silence">1</num>
+                <note>(S) Générique.</note>
+            </span>
+            <span from="#ikwfr2">
+                <num type="silence">1</num>
+                <note>(S) Générique.</note>
+            </span>
+            <span from="#ikwfr3">
+                <num type="silence">1</num>
+                <note>(S) Générique.</note>
+            </span>
+            <span from="#ikwfr4">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi4kw1"/>
+            </span>
+            <span from="#ikwfr5">
+                <num type="silence">0</num>
+                <note>Trop générique.</note>
+            </span>
+            <span from="#ikwfr6">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr7">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr8">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr9">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr10">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr11">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr12">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr13">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi4kw7"/>
+            </span>
+            <span from="#ikwfr14">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi4kw3"/>
+            </span>
+            <span from="#ikwfr15">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi4kw4"/>
+            </span>
+            <span from="#ikwfr16">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi4kw2"/>
+            </span>
+        </ns:annotationGrp>
+    </ns:annotations>
+</ns:standOff></ns:standOff>
+</TEI>

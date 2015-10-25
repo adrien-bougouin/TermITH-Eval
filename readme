@@ -1,0 +1,23 @@
+================================================================================
+= REAME
+================================================================================
+
+--------------------------------------------------------------------------------
+- Content
+--------------------------------------------------------------------------------
+
+The following resource is a sample of TermITH-Eval. Folder 'sample/xml_tei'
+contains sample documents annotated by the keyphrase extraction methods --
+TF-IDF, KEA and TopicRank -- and manually evaluated by professional indexers.
+
+The full resource will be available soon.
+--------------------------------------------------------------------------------
+- License
+--------------------------------------------------------------------------------
+
+CC By 4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+The Creative Commons Attribution 4.0 International License applies to this
+resource. Any re-use of this resource should attribute its content to
+ANR-12-CORD-0029.
+

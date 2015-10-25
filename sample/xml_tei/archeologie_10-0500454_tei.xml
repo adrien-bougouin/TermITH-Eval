@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:ns="http://standoff.proposal">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="fr">Le dépôt de l'âge du Bronze moyen de Keravel en Lannilis (Finistère)</title>
+            <title type="alt" xml:lang="en">The Keravel Middle Bronze Age Hoard, Lannilis (Finistère)</title>
+            <respStmt>
+               <resp>Extraction de la base Inist Exodic</resp>
+               <persName>
+                  <forename>Flora</forename>
+                  <surname>Badin</surname>
+               </persName>
+               <persName>
+                  <forename>Nicolas</forename>
+                  <surname>Thouvenin</surname>
+               </persName>
+               <persName>
+                  <forename>Nourdine</forename>
+                  <surname>Combo</surname>
+               </persName>
+               <persName>
+                  <forename>Sabine</forename>
+                  <surname>Barreaux</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+                <orgName>Inist-CNRS</orgName>
+                <orgName>Lina</orgName>
+                <orgName>Inria</orgName>
+            </authority>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0/">
+                   <p>The Creative Commons Attribution 4.0 International License applies to this document.</p>
+                   <p>Any re-use of this resource should attribute its content to <q>ANR-12-CORD-0029</q></p>
+               </licence>
+            </availability>
+            <idno type="documentnumber">10-0500454</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct type="article">
+               <analytic>
+                  <title type="main" xml:lang="fr">Le dépôt de l'âge du Bronze moyen de Keravel en Lannilis (Finistère)</title>
+                  <title type="alt" xml:lang="en">The Keravel Middle Bronze Age Hoard, Lannilis (Finistère)</title>
+                  <author>
+                     <persName>
+                        <forename>Jean-François</forename>
+                        <surname>VILLARD</surname>
+                     </persName>
+                     <affiliation>
+                        <orgName>INRAP; Centre de recherche archéologique de Finistère - 2 rue du Stivel</orgName>
+                        <address>
+                           <settlement>29000 Quimper</settlement>
+                           <country>FRA</country>
+                        </address>
+                     </affiliation>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j" type="main">Revue archéologique de l'Ouest</title>
+                  <idno type="issn">0767-709X</idno>
+                  <idno type="url">http://cat.inist.fr/?aModele=afficheN&amp;cpsidt=22410267</idno>
+                  <meeting/>
+                  <imprint>
+                     <pubPlace>
+                        <settlement>Rennes</settlement>
+                        <country>FRA</country>
+                     </pubPlace>
+                     <biblScope unit="issue">26</biblScope>
+                     <biblScope unit="pp" from="43" to="55">43-55</biblScope>
+                     <date type="published" when="2009">2009</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+          <projectDesc>
+              <p>TermITH (ANR-12-CORD-0029 - Contint) est un projet ANR se déroulant sur 3 ans et demi
+                 (2012 - 2016) avec pour objectif de faciliter l'indexation automatique de textes en
+                 sciences humaines et sociales en français en s'appuyant sur les termes qu'ils
+                 contiennent.</p>
+              <p>Le présent document fait partie du corpus TermITH-Eval sur lequel différentes
+                 méthodes d'indexation développées dans TermITH sont testées.</p>
+          </projectDesc>
+          <editorialDecl>
+              <normalization>
+                  <p>L'élément teiHeader contient la notice bibliographique de l'Inist-CNRS</p>
+                  <p>Les éléments ns:standOff contiennent les résultats d'indexation produits par
+                     différentes méthodes testées par le Lina</p>
+                  <p>Les éléments ns:standOff/ns:standOff contiennent les évaluations réalisées par
+                     l'Inist-CNRS sur ces indexations</p>
+              </normalization>
+          </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fr">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="cc">
+               <term>52563</term>
+               <term>Bronze ancien et moyen.</term>
+               <term>525III</term>
+               <term>EUROPE</term>
+               <term>525</term>
+               <term>PREHISTOIRE ET PROTOHISTOIRE</term>
+            </keywords>
+            <keywords scheme="inist-francis" xml:lang="fr">
+               <term xml:id="ikwfr1" type="controlled" corresp="#Europe">Europe</term>
+               <term xml:id="ikwfr2" type="controlled" corresp="#France">France</term>
+               <term xml:id="ikwfr3" type="uncontrolled">Keravel en Lannilis</term>
+               <term xml:id="ikwfr4" type="uncontrolled">Groupe de Tréboul</term>
+               <term xml:id="ikwfr5" type="controlled" corresp="#Palstave">Hache à talon</term>
+               <term xml:id="ikwfr6" type="controlled" corresp="#Flangedaxe">Hache à rebords</term>
+               <term xml:id="ikwfr7" type="controlled" corresp="#Spearhead">Pointe de lance</term>
+               <term xml:id="ikwfr8" type="controlled" corresp="#Hoard">Dépôt Cachette</term>
+               <term xml:id="ikwfr9" type="controlled" corresp="#Finistere">Finistère</term>
+               <term xml:id="ikwfr10" type="controlled" corresp="#MiddleBronzeAge">Age du bronze moyen</term>
+            </keywords>
+            <keywords scheme="inist-francis" xml:lang="en">
+               <term type="controlled" xml:id="Europe">Europe</term>
+               <term type="controlled" xml:id="France">France</term>
+               <term type="controlled" xml:id="Palstave">Palstave</term>
+               <term type="controlled" xml:id="Flangedaxe">Flanged axe</term>
+               <term type="controlled" xml:id="Spearhead">Spearhead</term>
+               <term type="controlled" xml:id="Hoard">Hoard</term>
+               <term type="controlled" xml:id="Finistere">Finistere</term>
+               <term type="controlled" xml:id="MiddleBronzeAge">Middle Bronze Age</term>
+            </keywords>
+         </textClass>
+         <abstract xml:lang="fr">
+            <p>Le dépôt du Bronze moyen de Keravel en Lannilis (Finistère) fut mis au jour lors d'une opération de diagnostic archéologique en 2007. Une dizaine d'objets ou fragments d'objets fut découverte, probable reflet d'un dépôt partiellement détruit par une petite carrière d'arène granitique, creusée à une époque indéterminée. Une pointe de lance décorée et des fragments de haches à talon ou à rebord se rattachent au groupe typologique de Tréboul. Ils sont accompagnés de fragments d'une grande hache de type breton. L'ensemble, datable du XV<sup>e</sup> siècle avant J.-C., s'insère dans un état des connaissances, déjà richement documenté en Bretagne, à propos de ce type de dépôts.</p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <ns:standOff xml:id="mi2">
+      <ns:soHeader>
+         <encodingDesc>
+            <appInfo>
+               <application ident="lina-3:notice:topicrank:sequences_nom_adj" version="1.0">
+                  <label>lina-3:notice:topicrank:sequences_nom_adj</label>
+               </application>
+            </appInfo>
+         </encodingDesc>
+         <titleStmt>
+            <title>Indexation TermITH</title>
+            <author role="IndexingEditor">LINA</author>
+         </titleStmt>
+      </ns:soHeader>
+      <!-- termes-cles -->
+      <ns:annotations>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw1">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">fragments</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw2">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">dépôt</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw3">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">haches</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw4">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">keravel</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw5">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">lannilis</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw6">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">bronze moyen</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw7">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">finistère</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw8">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">type breton</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw9">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">objets</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw10">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">talon</term>
+               </tig>
+            </langSet>
+         </termEntry>
+      </ns:annotations>
+   <ns:standOff>
+<!--standOff subordonné au standOff principal-->
+    <ns:soHeader>
+        <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+            <appInfo>
+            <!--nom de l'outil d'évaluation-->
+                <application ident="idefix" version="7.9.1">
+                    <label>idefix</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+            <title>évaluation indexation</title>
+            <author role="IndexingEvaluator">INIST</author>
+        </titleStmt>
+    </ns:soHeader>
+    <ns:annotations>
+        <ns:annotationGrp type="pertinence">
+            <span from="#mi2kw1">
+                <num type="pertinence">0</num>
+                <note>Trop générique.</note>
+            </span>
+            <span from="#mi2kw2">
+                <num type="pertinence">2</num>
+                <link type="INISTForm" target="#ikwfr8"/>
+            </span>
+            <span from="#mi2kw3">
+                <num type="pertinence">2</num>
+                <link type="INISTForm" target="#ikwfr6"/>
+            </span>
+            <span from="#mi2kw4">
+                <num type="pertinence">1</num>
+                <link type="INISTForm" target="#ikwfr3"/>
+                <note>(P) Forme préférée dans le texte : Keravel en Lannilis</note>
+            </span>
+            <span from="#mi2kw5">
+                <num type="pertinence">1</num>
+                <note>(P) Forme préférée dans le texte : Keravel en Lannilis</note>
+            </span>
+            <span from="#mi2kw6">
+                <num type="pertinence">1</num>
+                <link type="INISTForm" target="#ikwfr10"/>
+                <note>(P) Forme préférée dans le texte : âge du Bronze moyen</note>
+            </span>
+            <span from="#mi2kw7">
+                <num type="pertinence">2</num>
+                <link type="INISTForm" target="#ikwfr9"/>
+            </span>
+            <span from="#mi2kw8">
+                <num type="pertinence">1</num>
+                <note>(P) Forme préférée dans le texte :  hache de type breton</note>
+            </span>
+            <span from="#mi2kw9">
+                <num type="pertinence">0</num>
+                <note>Trop générique.</note>
+            </span>
+            <span from="#mi2kw10">
+                <num type="pertinence">1</num>
+                <link type="INISTForm" target="#ikwfr5"/>
+                <note>(P) Forme préférée dans le texte : haches à talon </note>
+            </span>
+        </ns:annotationGrp>
+        <ns:annotationGrp type="silence">
+            <span from="#ikwfr1">
+                <num type="silence">1</num>
+                <note>(S) Générique.</note>
+            </span>
+            <span from="#ikwfr2">
+                <num type="silence">1</num>
+                <note>(S) Générique.</note>
+            </span>
+            <span from="#ikwfr3">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi2kw4"/>
+            </span>
+            <span from="#ikwfr4">
+                <num type="silence">2</num>
+                <note>(S) Forme variante dans le texte : groupe typologique de Tréboul</note>
+            </span>
+            <span from="#ikwfr5">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi2kw10"/>
+            </span>
+            <span from="#ikwfr6">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi2kw3"/>
+            </span>
+            <span from="#ikwfr7">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr8">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi2kw2"/>
+            </span>
+            <span from="#ikwfr9">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi2kw7"/>
+            </span>
+            <span from="#ikwfr10">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi2kw6"/>
+            </span>
+        </ns:annotationGrp>
+    </ns:annotations>
+</ns:standOff></ns:standOff>
+   <ns:standOff xml:id="mi1">
+      <ns:soHeader>
+         <encodingDesc>
+            <appInfo>
+               <application ident="lina-3:notice:tfidf:sequences_nom_adj" version="1.0">
+                  <label>lina-3:notice:tfidf:sequences_nom_adj</label>
+               </application>
+            </appInfo>
+         </encodingDesc>
+         <titleStmt>
+            <title>Indexation TermITH</title>
+            <author role="IndexingEditor">LINA</author>
+         </titleStmt>
+      </ns:soHeader>
+      <!-- termes-cles -->
+      <ns:annotations>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw1">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">keravel</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw2">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">lannilis</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw3">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">fragments</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw4">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">dépôt</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw5">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">finistère</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw6">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">talon</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw7">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">rebord</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw8">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">tréboul</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw9">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">datable</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw10">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">2007</term>
+               </tig>
+            </langSet>
+         </termEntry>
+      </ns:annotations>
+   <ns:standOff>
+<!--standOff subordonné au standOff principal-->
+    <ns:soHeader>
+        <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+            <appInfo>
+            <!--nom de l'outil d'évaluation-->
+                <application ident="idefix" version="7.9.1">
+                    <label>idefix</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+            <title>évaluation indexation</title>
+            <author role="IndexingEvaluator">INIST</author>
+        </titleStmt>
+    </ns:soHeader>
+    <ns:annotations>
+        <ns:annotationGrp type="pertinence">
+            <span from="#mi1kw1">
+                <num type="pertinence">1</num>
+                <link type="INISTForm" target="#ikwfr3"/>
+                <note>(P) Forme préférée dans le texte : Keravel en Lannilis</note>
+            </span>
+            <span from="#mi1kw2">
+                <num type="pertinence">1</num>
+                <note>(P) Forme préférée dans le texte : Keravel en Lannilis</note>
+            </span>
+            <span from="#mi1kw3">
+                <num type="pertinence">0</num>
+                <note>Trop générique.</note>
+            </span>
+            <span from="#mi1kw4">
+                <num type="pertinence">2</num>
+                <link type="INISTForm" target="#ikwfr8"/>
+            </span>
+            <span from="#mi1kw5">
+                <num type="pertinence">2</num>
+                <link type="INISTForm" target="#ikwfr9"/>
+            </span>
+            <span from="#mi1kw6">
+                <num type="pertinence">1</num>
+                <link type="INISTForm" target="#ikwfr5"/>
+                <note>(P) Forme préférée dans le texte : haches à talon </note>
+            </span>
+            <span from="#mi1kw7">
+                <num type="pertinence">1</num>
+                <link type="INISTForm" target="#ikwfr6"/>
+                <note>(P) Forme préférée dans le texte : haches à rebord</note>
+            </span>
+            <span from="#mi1kw8">
+                <num type="pertinence">1</num>
+                <link type="INISTForm" target="#ikwfr4"/>
+                <note>(P) Forme préférée dans le texte : groupe typologique de Tréboul</note>
+            </span>
+            <span from="#mi1kw9">
+                <num type="pertinence">0</num>
+            </span>
+            <span from="#mi1kw10">
+                <num type="pertinence">0</num>
+            </span>
+        </ns:annotationGrp>
+        <ns:annotationGrp type="silence">
+            <span from="#ikwfr1">
+                <num type="silence">1</num>
+                <note>(S) Générique.</note>
+            </span>
+            <span from="#ikwfr2">
+                <num type="silence">1</num>
+                <note>(S) Générique.</note>
+            </span>
+            <span from="#ikwfr3">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi1kw1"/>
+            </span>
+            <span from="#ikwfr4">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi1kw8"/>
+            </span>
+            <span from="#ikwfr5">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi1kw6"/>
+            </span>
+            <span from="#ikwfr6">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi1kw7"/>
+            </span>
+            <span from="#ikwfr7">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr8">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi1kw4"/>
+            </span>
+            <span from="#ikwfr9">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi1kw5"/>
+            </span>
+            <span from="#ikwfr10">
+                <num type="silence">2</num>
+            </span>
+        </ns:annotationGrp>
+    </ns:annotations>
+</ns:standOff></ns:standOff>
+   <ns:standOff xml:id="mi4">
+      <ns:soHeader>
+         <encodingDesc>
+            <appInfo>
+               <application ident="lina-3:notice:kea:sequences_nom_adj" version="1.0">
+                  <label>lina-3:notice:kea:sequences_nom_adj</label>
+               </application>
+            </appInfo>
+         </encodingDesc>
+         <titleStmt>
+            <title>Indexation TermITH</title>
+            <author role="IndexingEditor">LINA</author>
+         </titleStmt>
+      </ns:soHeader>
+      <!-- termes-cles -->
+      <ns:annotations>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw1">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">keravel</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw2">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">lannilis</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw3">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">fragments</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw4">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">dépôt</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw5">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">finistère</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw6">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">bronze moyen</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw7">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">probable reflet</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw8">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">diagnostic archéologique</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw9">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">petite carrière</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw10">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">arène granitique</term>
+               </tig>
+            </langSet>
+         </termEntry>
+      </ns:annotations>
+   <ns:standOff>
+<!--standOff subordonné au standOff principal-->
+    <ns:soHeader>
+        <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+            <appInfo>
+            <!--nom de l'outil d'évaluation-->
+                <application ident="idefix" version="7.9.1">
+                    <label>idefix</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+            <title>évaluation indexation</title>
+            <author role="IndexingEvaluator">INIST</author>
+        </titleStmt>
+    </ns:soHeader>
+    <ns:annotations>
+        <ns:annotationGrp type="pertinence">
+            <span from="#mi4kw1">
+                <num type="pertinence">1</num>
+                <link type="INISTForm" target="#ikwfr3"/>
+                <note>(P) Forme préférée dans le texte : Keravel en Lannilis</note>
+            </span>
+            <span from="#mi4kw2">
+                <num type="pertinence">1</num>
+                <note>(P) Forme préférée dans le texte : Keravel en Lannilis</note>
+            </span>
+            <span from="#mi4kw3">
+                <num type="pertinence">0</num>
+                <note>Trop générique.</note>
+            </span>
+            <span from="#mi4kw4">
+                <num type="pertinence">2</num>
+                <link type="INISTForm" target="#ikwfr8"/>
+            </span>
+            <span from="#mi4kw5">
+                <num type="pertinence">2</num>
+                <link type="INISTForm" target="#ikwfr9"/>
+            </span>
+            <span from="#mi4kw6">
+                <num type="pertinence">1</num>
+                <link type="INISTForm" target="#ikwfr10"/>
+                <note>(P) Forme préférée dans le texte : âge du Bronze moyen</note>
+            </span>
+            <span from="#mi4kw7">
+                <num type="pertinence">0</num>
+            </span>
+            <span from="#mi4kw8">
+                <num type="pertinence">2</num>
+            </span>
+            <span from="#mi4kw9">
+                <num type="pertinence">0</num>
+            </span>
+            <span from="#mi4kw10">
+                <num type="pertinence">0</num>
+            </span>
+        </ns:annotationGrp>
+        <ns:annotationGrp type="silence">
+            <span from="#ikwfr1">
+                <num type="silence">1</num>
+                <note>(S) Générique.</note>
+            </span>
+            <span from="#ikwfr2">
+                <num type="silence">1</num>
+                <note>(S) Générique.</note>
+            </span>
+            <span from="#ikwfr3">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi4kw1"/>
+            </span>
+            <span from="#ikwfr4">
+                <num type="silence">2</num>
+                <note>(S) Forme variante dans le texte : groupe typologique de Tréboul</note>
+            </span>
+            <span from="#ikwfr5">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr6">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr7">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr8">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi4kw4"/>
+            </span>
+            <span from="#ikwfr9">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi4kw5"/>
+            </span>
+            <span from="#ikwfr10">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi4kw6"/>
+            </span>
+        </ns:annotationGrp>
+    </ns:annotations>
+</ns:standOff></ns:standOff>
+</TEI>

@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:ns="http://standoff.proposal">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="fr">LA GROTTE DES FÉES (Châtelperron, Allier) OU UNE INTERSTRATIFICATION «CHATELPERRONIEN-AURIGNACIEN» ILLUSOIRE. HISTOIRE DES FOUILLES, STRATIGRAPHIE ET DATATIONS</title>
+            <respStmt>
+               <resp>Extraction de la base Inist Exodic</resp>
+               <persName>
+                  <forename>Flora</forename>
+                  <surname>Badin</surname>
+               </persName>
+               <persName>
+                  <forename>Nicolas</forename>
+                  <surname>Thouvenin</surname>
+               </persName>
+               <persName>
+                  <forename>Nourdine</forename>
+                  <surname>Combo</surname>
+               </persName>
+               <persName>
+                  <forename>Sabine</forename>
+                  <surname>Barreaux</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+                <orgName>Inist-CNRS</orgName>
+                <orgName>Lina</orgName>
+                <orgName>Inria</orgName>
+            </authority>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0/">
+                   <p>The Creative Commons Attribution 4.0 International License applies to this document.</p>
+                   <p>Any re-use of this resource should attribute its content to <q>ANR-12-CORD-0029</q></p>
+               </licence>
+            </availability>
+            <idno type="documentnumber">09-0062866</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct type="article">
+               <analytic>
+                  <title type="main" xml:lang="fr">LA GROTTE DES FÉES (Châtelperron, Allier) OU UNE INTERSTRATIFICATION «CHATELPERRONIEN-AURIGNACIEN» ILLUSOIRE. HISTOIRE DES FOUILLES, STRATIGRAPHIE ET DATATIONS</title>
+                  <author>
+                     <persName>
+                        <forename>Joao</forename>
+                        <surname>ZILHAO</surname>
+                     </persName>
+                     <affiliation>
+                        <orgName>Department of Archaeology and Anthropology, University of Bristol, 43 Woodland Road</orgName>
+                        <address>
+                           <settlement>Bristol BS8 1UU</settlement>
+                           <country>GBR</country>
+                        </address>
+                     </affiliation>
+                  </author>
+                  <author>
+                     <persName>
+                        <forename>Francesco</forename>
+                        <surname>D'ERRICO</surname>
+                     </persName>
+                     <affiliation>
+                        <orgName>Université Bordeaux 1 -PACEA/UMR 5199 du CNRS, Institut de Préhistoire et de Géologie du Quaternaire, UFR de Géologie, Bat. B18, Avenue des Facultés</orgName>
+                        <address>
+                           <settlement>33405 Talence</settlement>
+                           <country>FRA</country>
+                        </address>
+                     </affiliation>
+                  </author>
+                  <author>
+                     <persName>
+                        <forename>Jean-Guillaume</forename>
+                        <surname>BORDES</surname>
+                     </persName>
+                     <affiliation>
+                        <orgName>Université Bordeaux 1 -PACEA/UMR 5199 du CNRS, Institut de Préhistoire et de Géologie du Quaternaire, UFR de Géologie, Bat. B18, Avenue des Facultés</orgName>
+                        <address>
+                           <settlement>33405 Talence</settlement>
+                           <country>FRA</country>
+                        </address>
+                     </affiliation>
+                  </author>
+                  <author>
+                     <persName>
+                        <forename>Arnaud</forename>
+                        <surname>LENOBLE</surname>
+                     </persName>
+                     <affiliation>
+                        <orgName>Département de Préhistoire -Muséum national d'Histoire Naturelle, UMR 5198 du CNRS, Musée de l'Homme, Palais de Chaillot, 17 Place du Trocadéro</orgName>
+                        <address>
+                           <settlement>75116 Paris</settlement>
+                           <country>FRA</country>
+                        </address>
+                     </affiliation>
+                  </author>
+                  <author>
+                     <persName>
+                        <forename>Jean-Pierre</forename>
+                        <surname>TEXIER</surname>
+                     </persName>
+                     <affiliation>
+                        <orgName>Université Bordeaux 1 -PACEA/UMR 5199 du CNRS, Institut de Préhistoire et de Géologie du Quaternaire, UFR de Géologie, Bat. B18, Avenue des Facultés</orgName>
+                        <address>
+                           <settlement>33405 Talence</settlement>
+                           <country>FRA</country>
+                        </address>
+                     </affiliation>
+                  </author>
+                  <author>
+                     <persName>
+                        <forename>Jean-Philippe</forename>
+                        <surname>RIGAUD</surname>
+                     </persName>
+                     <affiliation>
+                        <orgName>Université Bordeaux 1 -PACEA/UMR 5199 du CNRS, Institut de Préhistoire et de Géologie du Quaternaire, UFR de Géologie, Bat. B18, Avenue des Facultés</orgName>
+                        <address>
+                           <settlement>33405 Talence</settlement>
+                           <country>FRA</country>
+                        </address>
+                     </affiliation>
+                  </author>
+               </analytic>
+               <monogr>
+                  <title level="j" type="main">Paléo (Les Eyzies de Tayac-Sireuil)</title>
+                  <idno type="issn">1145-3370</idno>
+                  <idno type="url">http://cat.inist.fr/?aModele=afficheN&amp;cpsidt=20563726</idno>
+                  <meeting/>
+                  <imprint>
+                     <pubPlace>
+                        <settlement>Les Eyzies de Tayac-Sireuil</settlement>
+                        <country>FRA</country>
+                     </pubPlace>
+                     <biblScope unit="issue">19</biblScope>
+                     <biblScope unit="pp" from="391" to="432">391-432</biblScope>
+                     <date type="published" when="2007">2007</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+          <projectDesc>
+              <p>TermITH (ANR-12-CORD-0029 - Contint) est un projet ANR se déroulant sur 3 ans et demi
+                 (2012 - 2016) avec pour objectif de faciliter l'indexation automatique de textes en
+                 sciences humaines et sociales en français en s'appuyant sur les termes qu'ils
+                 contiennent.</p>
+              <p>Le présent document fait partie du corpus TermITH-Eval sur lequel différentes
+                 méthodes d'indexation développées dans TermITH sont testées.</p>
+          </projectDesc>
+          <editorialDecl>
+              <normalization>
+                  <p>L'élément teiHeader contient la notice bibliographique de l'Inist-CNRS</p>
+                  <p>Les éléments ns:standOff contiennent les résultats d'indexation produits par
+                     différentes méthodes testées par le Lina</p>
+                  <p>Les éléments ns:standOff/ns:standOff contiennent les évaluations réalisées par
+                     l'Inist-CNRS sur ces indexations</p>
+              </normalization>
+          </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fr">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="cc">
+               <term>52553</term>
+               <term>Paléolithique supérieur.</term>
+               <term>525III</term>
+               <term>EUROPE</term>
+               <term>525</term>
+               <term>PREHISTOIRE ET PROTOHISTOIRE</term>
+            </keywords>
+            <keywords scheme="inist-francis" xml:lang="fr">
+               <term xml:id="ikwfr1" type="controlled" corresp="#France">France</term>
+               <term xml:id="ikwfr2" type="uncontrolled">Paul Mellars</term>
+               <term xml:id="ikwfr3" type="uncontrolled">Châtelperron</term>
+               <term xml:id="ikwfr4" type="uncontrolled">Henri Delporte</term>
+               <term xml:id="ikwfr5" type="uncontrolled">Grotte des Fées</term>
+               <term xml:id="ikwfr6" type="controlled" corresp="#Ancientexcavation">Fouille ancienne</term>
+               <term xml:id="ikwfr7" type="controlled" corresp="#Lithicindustry">Industrie lithique</term>
+               <term xml:id="ikwfr8" type="controlled" corresp="#Interpretation">Interprétation</term>
+               <term xml:id="ikwfr9" type="controlled" corresp="#Dating">Datation</term>
+               <term xml:id="ikwfr10" type="controlled" corresp="#Stratigraphy">Stratigraphie</term>
+               <term xml:id="ikwfr11" type="controlled" corresp="#Transition">Transition</term>
+               <term xml:id="ikwfr12" type="controlled" corresp="#Allier">Allier</term>
+               <term xml:id="ikwfr13" type="controlled" corresp="#UpperPalaeolithic">Paléolithique supérieur</term>
+               <term xml:id="ikwfr14" type="controlled" corresp="#MiddlePalaeolithic">Paléolithique moyen</term>
+               <term xml:id="ikwfr15" type="controlled" corresp="#Aurignacian">Aurignacien</term>
+               <term xml:id="ikwfr16" type="controlled" corresp="#Chatelperronian">Châtelperronien</term>
+            </keywords>
+            <keywords scheme="inist-francis" xml:lang="en">
+               <term type="controlled" xml:id="France">France</term>
+               <term type="controlled" xml:id="Ancientexcavation">Ancient excavation</term>
+               <term type="controlled" xml:id="Lithicindustry">Lithic industry</term>
+               <term type="controlled" xml:id="Interpretation">Interpretation</term>
+               <term type="controlled" xml:id="Dating">Dating</term>
+               <term type="controlled" xml:id="Stratigraphy">Stratigraphy</term>
+               <term type="controlled" xml:id="Transition">Transition</term>
+               <term type="controlled" xml:id="Allier">Allier</term>
+               <term type="controlled" xml:id="UpperPalaeolithic">Upper Palaeolithic</term>
+               <term type="controlled" xml:id="MiddlePalaeolithic">Middle Palaeolithic</term>
+               <term type="controlled" xml:id="Aurignacian">Aurignacian</term>
+               <term type="controlled" xml:id="Chatelperronian">Chatelperronian</term>
+            </keywords>
+         </textClass>
+         <abstract xml:lang="fr">
+            <p>Dans une publication récente, Gravina et collaborateurs (2005) admettent qu'une interstratification entre industries châtelperroniennes et aurignaciennes est avérée à la grotte des Fées, phénomène qui implique une longue contemporanéité entre les populations porteuses de ces deux technocomplexes. Cette interprétation, qui s'appuie essentiellement sur des datations numériques réalisées à partir d'échantillons provenant des fouilles de Delporte, a été vivement critiquée par Zilhao et al. (2006). Elle a cependant été maintenue par les premiers auteurs qui réfutent l'ensemble des arguments avancés par Zilhao et collaborateurs (Mellars et al. 2007) Dans cet article, nous exposons en détail les informations et les arguments qui nous conduisent à rejeter l'idée d'une interstratification sur le site de la grotte des Fées. Les questions soulevées par Mellars et collaborateurs sont discutées. De nouveaux éléments sont également pris en compte. L'historique des travaux conduits sur le site depuis le XIXe siècle, les incohérences concernant la localisation des fouilles, différente selon les sources, la signification des datations <sup>14</sup>C, l'analyse de l'industrie lithique et de la parure recueillie par H. Delporte montrent que ce site livre en fait un mélange de pièces châtelperroniennes et aurignaciennes sur l'ensemble de sa séquence et qu'il ne peut donc servir à étayer l'hypothèse d'une contemporanéité entre ces deux populations. L'analyse de la faune associée aux industries met en évidence une accumulation par des carnivores. Sur cette base, les différentes possibilités d'association entre vestiges fauniques et lithiques sont discutées. La signification des dates <sup>14</sup>C est également évaluée à partir des différents modes de formation possibles du site. L'interprétation la plus rigoureuse des données recueillies incite à penser que les dépôts fouillés par Delporte correspondent pour l'essentiel à des déblais de fouilles pratiquées au XIX<sup>e</sup> siècle. Seule une petite partie du site, en particulier à la base de la séquence, pourrait réellement correspondre à des témoins en place. Sur les treize dates obtenues par Mellars et collaborateurs (2007), dix ont été réalisées à partir de vestiges provenant de ce témoin. Elles suggèrent une occupation châtelperronienne autour de 39-40 ka <sup>14</sup>C BP et une occupation par les seuls carnivores dans l'intervalle 36,5 ka-34,5 ka <sup>14</sup>C BP. La présence d'objets typiquement aurignaciens, au sein des déblais fouillés par Delporte, atteste d'une fréquentation sporadique du gisement par les porteurs de cette industrie. Ces vestiges aurignaciens sont susceptibles de provenir d'un niveau surmontant les dépôts moustériens et châtelperroniens.</p>
+         </abstract>
+      </profileDesc>
+   </teiHeader>
+   <ns:standOff xml:id="mi2">
+      <ns:soHeader>
+         <encodingDesc>
+            <appInfo>
+               <application ident="lina-3:notice:topicrank:sequences_nom_adj" version="1.0">
+                  <label>lina-3:notice:topicrank:sequences_nom_adj</label>
+               </application>
+            </appInfo>
+         </encodingDesc>
+         <titleStmt>
+            <title>Indexation TermITH</title>
+            <author role="IndexingEditor">LINA</author>
+         </titleStmt>
+      </ns:soHeader>
+      <!-- termes-cles -->
+      <ns:annotations>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw1">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">fouilles</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw2">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">collaborateurs</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw3">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">site</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw4">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">vestiges fauniques</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw5">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">aurignaciennes</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw6">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">mellars</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw7">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">différente</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw8">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">carnivores</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw9">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">fées</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi2kw10">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">industries châtelperroniennes</term>
+               </tig>
+            </langSet>
+         </termEntry>
+      </ns:annotations>
+   <ns:standOff>
+<!--standOff subordonné au standOff principal-->
+    <ns:soHeader>
+        <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+            <appInfo>
+            <!--nom de l'outil d'évaluation-->
+                <application ident="idefix" version="7.9.1">
+                    <label>idefix</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+            <title>évaluation indexation</title>
+            <author role="IndexingEvaluator">INIST</author>
+        </titleStmt>
+    </ns:soHeader>
+    <ns:annotations>
+        <ns:annotationGrp type="pertinence">
+            <span from="#mi2kw1">
+                <num type="pertinence">2</num>
+                <link type="INISTForm" target="#ikwfr6"/>
+            </span>
+            <span from="#mi2kw2">
+                <num type="pertinence">0</num>
+            </span>
+            <span from="#mi2kw3">
+                <num type="pertinence">0</num>
+            </span>
+            <span from="#mi2kw4">
+                <num type="pertinence">2</num>
+            </span>
+            <span from="#mi2kw5">
+                <num type="pertinence">1</num>
+                <link type="INISTForm" target="#ikwfr15"/>
+                <note>(P) Forme préférée dans le texte : industries aurignaciennes</note>
+            </span>
+            <span from="#mi2kw6">
+                <num type="pertinence">0</num>
+                <link type="INISTForm" target="#ikwfr2"/>
+            </span>
+            <span from="#mi2kw7">
+                <num type="pertinence">0</num>
+            </span>
+            <span from="#mi2kw8">
+                <num type="pertinence">2</num>
+            </span>
+            <span from="#mi2kw9">
+                <num type="pertinence">1</num>
+                <link type="INISTForm" target="#ikwfr5"/>
+                <note>(P) Forme préférée dans le texte : grotte des Fées</note>
+            </span>
+            <span from="#mi2kw10">
+                <num type="pertinence">2</num>
+                <link type="INISTForm" target="#ikwfr7"/>
+                <link type="INISTForm" target="#ikwfr16"/>
+            </span>
+        </ns:annotationGrp>
+        <ns:annotationGrp type="silence">
+            <span from="#ikwfr1">
+                <num type="silence">1</num>
+                <note>(S) Générique.</note>
+            </span>
+            <span from="#ikwfr2">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi2kw6"/>
+            </span>
+            <span from="#ikwfr3">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr4">
+                <num type="silence">1</num>
+                <note>(S) Secondaire.</note>
+            </span>
+            <span from="#ikwfr5">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi2kw9"/>
+            </span>
+            <span from="#ikwfr6">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi2kw1"/>
+            </span>
+            <span from="#ikwfr7">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi2kw10"/>
+            </span>
+            <span from="#ikwfr8">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr9">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr10">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr11">
+                <num type="silence">1</num>
+                <note>(S) Implicite.</note>
+            </span>
+            <span from="#ikwfr12">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr13">
+                <num type="silence">1</num>
+                <note>(S) Générique.</note>
+            </span>
+            <span from="#ikwfr14">
+                <num type="silence">1</num>
+                <note>(S) Générique.</note>
+            </span>
+            <span from="#ikwfr15">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi2kw5"/>
+            </span>
+            <span from="#ikwfr16">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi2kw10"/>
+            </span>
+        </ns:annotationGrp>
+    </ns:annotations>
+</ns:standOff></ns:standOff>
+   <ns:standOff xml:id="mi1">
+      <ns:soHeader>
+         <encodingDesc>
+            <appInfo>
+               <application ident="lina-3:notice:tfidf:sequences_nom_adj" version="1.0">
+                  <label>lina-3:notice:tfidf:sequences_nom_adj</label>
+               </application>
+            </appInfo>
+         </encodingDesc>
+         <titleStmt>
+            <title>Indexation TermITH</title>
+            <author role="IndexingEditor">LINA</author>
+         </titleStmt>
+      </ns:soHeader>
+      <!-- termes-cles -->
+      <ns:annotations>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw1">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">collaborateurs</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw2">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">delporte</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw3">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">interstratification</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw4">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">mellars</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw5">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">fées</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw6">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">zilhao</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw7">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">aurignaciennes</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw8">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">déblais</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw9">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">dates 14c</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi1kw10">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">datations 14c</term>
+               </tig>
+            </langSet>
+         </termEntry>
+      </ns:annotations>
+   <ns:standOff>
+<!--standOff subordonné au standOff principal-->
+    <ns:soHeader>
+        <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+            <appInfo>
+            <!--nom de l'outil d'évaluation-->
+                <application ident="idefix" version="7.9.1">
+                    <label>idefix</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+            <title>évaluation indexation</title>
+            <author role="IndexingEvaluator">INIST</author>
+        </titleStmt>
+    </ns:soHeader>
+    <ns:annotations>
+        <ns:annotationGrp type="pertinence">
+            <span from="#mi1kw1">
+                <num type="pertinence">0</num>
+            </span>
+            <span from="#mi1kw2">
+                <num type="pertinence">0</num>
+                <link type="INISTForm" target="#ikwfr4"/>
+            </span>
+            <span from="#mi1kw3">
+                <num type="pertinence">2</num>
+                <link type="INISTForm" target="#ikwfr10"/>
+            </span>
+            <span from="#mi1kw4">
+                <num type="pertinence">0</num>
+                <link type="INISTForm" target="#ikwfr2"/>
+            </span>
+            <span from="#mi1kw5">
+                <num type="pertinence">1</num>
+                <link type="INISTForm" target="#ikwfr5"/>
+                <note>(P) Forme préférée dans le texte : grotte des Fées</note>
+            </span>
+            <span from="#mi1kw6">
+                <num type="pertinence">0</num>
+            </span>
+            <span from="#mi1kw7">
+                <num type="pertinence">1</num>
+                <link type="INISTForm" target="#ikwfr15"/>
+                <link type="INISTForm" target="#ikwfr7"/>
+                <note>(P) Forme préférée dans le texte : industries aurignaciennes</note>
+            </span>
+            <span from="#mi1kw8">
+                <num type="pertinence">0</num>
+            </span>
+            <span from="#mi1kw9">
+                <num type="pertinence">1</num>
+                <link type="preferredForm" target="#mi1kw10"/>
+            </span>
+            <span from="#mi1kw10">
+                <num type="pertinence">2</num>
+                <link type="INISTForm" target="#ikwfr9"/>
+            </span>
+        </ns:annotationGrp>
+        <ns:annotationGrp type="silence">
+            <span from="#ikwfr1">
+                <num type="silence">1</num>
+                <note>(S) Générique.</note>
+            </span>
+            <span from="#ikwfr2">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi1kw4"/>
+            </span>
+            <span from="#ikwfr3">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr4">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi1kw2"/>
+            </span>
+            <span from="#ikwfr5">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi1kw5"/>
+            </span>
+            <span from="#ikwfr6">
+                <num type="silence">1</num>
+                <note>(S) Implicite.</note>
+            </span>
+            <span from="#ikwfr7">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi1kw7"/>
+            </span>
+            <span from="#ikwfr8">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr9">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi1kw10"/>
+            </span>
+            <span from="#ikwfr10">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi1kw3"/>
+            </span>
+            <span from="#ikwfr11">
+                <num type="silence">1</num>
+                <note>(S) Implicite.</note>
+            </span>
+            <span from="#ikwfr12">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr13">
+                <num type="silence">1</num>
+                <note>(S) Générique.</note>
+            </span>
+            <span from="#ikwfr14">
+                <num type="silence">1</num>
+                <note>(S) Générique.</note>
+            </span>
+            <span from="#ikwfr15">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi1kw7"/>
+            </span>
+            <span from="#ikwfr16">
+                <num type="silence">2</num>
+            </span>
+        </ns:annotationGrp>
+    </ns:annotations>
+</ns:standOff></ns:standOff>
+   <ns:standOff xml:id="mi4">
+      <ns:soHeader>
+         <encodingDesc>
+            <appInfo>
+               <application ident="lina-3:notice:kea:sequences_nom_adj" version="1.0">
+                  <label>lina-3:notice:kea:sequences_nom_adj</label>
+               </application>
+            </appInfo>
+         </encodingDesc>
+         <titleStmt>
+            <title>Indexation TermITH</title>
+            <author role="IndexingEditor">LINA</author>
+         </titleStmt>
+      </ns:soHeader>
+      <!-- termes-cles -->
+      <ns:annotations>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw1">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">collaborateurs</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw2">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">delporte</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw3">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">fées</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw4">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">interstratification</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw5">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">mellars</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw6">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">histoire</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw7">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">datations</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw8">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">grotte</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw9">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">allier</term>
+               </tig>
+            </langSet>
+         </termEntry>
+         <termEntry xmlns="http://www.tbx.org" xml:id="mi4kw10">
+            <langSet xml:lang="fr">
+               <tig>
+                  <term xmlns="http://www.tei-c.org/ns/1.0">châtelperron</term>
+               </tig>
+            </langSet>
+         </termEntry>
+      </ns:annotations>
+   <ns:standOff>
+<!--standOff subordonné au standOff principal-->
+    <ns:soHeader>
+        <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+            <appInfo>
+            <!--nom de l'outil d'évaluation-->
+                <application ident="idefix" version="7.9.1">
+                    <label>idefix</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <titleStmt xmlns="http://www.tei-c.org/ns/1.0">
+            <title>évaluation indexation</title>
+            <author role="IndexingEvaluator">INIST</author>
+        </titleStmt>
+    </ns:soHeader>
+    <ns:annotations>
+        <ns:annotationGrp type="pertinence">
+            <span from="#mi4kw1">
+                <num type="pertinence">0</num>
+            </span>
+            <span from="#mi4kw2">
+                <num type="pertinence">0</num>
+                <link type="INISTForm" target="#ikwfr4"/>
+            </span>
+            <span from="#mi4kw3">
+                <num type="pertinence">1</num>
+                <link type="INISTForm" target="#ikwfr5"/>
+                <note>(P) Forme préférée dans le texte : grotte des Fées</note>
+            </span>
+            <span from="#mi4kw4">
+                <num type="pertinence">2</num>
+                <link type="INISTForm" target="#ikwfr10"/>
+            </span>
+            <span from="#mi4kw5">
+                <num type="pertinence">0</num>
+                <link type="INISTForm" target="#ikwfr2"/>
+            </span>
+            <span from="#mi4kw6">
+                <num type="pertinence">0</num>
+            </span>
+            <span from="#mi4kw7">
+                <num type="pertinence">2</num>
+                <link type="INISTForm" target="#ikwfr9"/>
+            </span>
+            <span from="#mi4kw8">
+                <num type="pertinence">1</num>
+                <note>(P) Forme préférée dans le texte : grotte des Fées</note>
+            </span>
+            <span from="#mi4kw9">
+                <num type="pertinence">2</num>
+                <link type="INISTForm" target="#ikwfr12"/>
+            </span>
+            <span from="#mi4kw10">
+                <num type="pertinence">2</num>
+                <link type="INISTForm" target="#ikwfr3"/>
+            </span>
+        </ns:annotationGrp>
+        <ns:annotationGrp type="silence">
+            <span from="#ikwfr1">
+                <num type="silence">1</num>
+                <note>(S) Générique.</note>
+            </span>
+            <span from="#ikwfr2">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi4kw5"/>
+            </span>
+            <span from="#ikwfr3">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi4kw10"/>
+            </span>
+            <span from="#ikwfr4">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi4kw2"/>
+            </span>
+            <span from="#ikwfr5">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi4kw3"/>
+            </span>
+            <span from="#ikwfr6">
+                <num type="silence">1</num>
+                <note>(S) Implicite.</note>
+            </span>
+            <span from="#ikwfr7">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr8">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr9">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi4kw7"/>
+            </span>
+            <span from="#ikwfr10">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi4kw4"/>
+            </span>
+            <span from="#ikwfr11">
+                <num type="silence">1</num>
+                <note>(S) Implicite.</note>
+            </span>
+            <span from="#ikwfr12">
+                <num type="silence">0</num>
+                <link type="TermithForm" target="#mi4kw9"/>
+            </span>
+            <span from="#ikwfr13">
+                <num type="silence">1</num>
+                <note>(S) Générique.</note>
+            </span>
+            <span from="#ikwfr14">
+                <num type="silence">1</num>
+                <note>(S) Générique.</note>
+            </span>
+            <span from="#ikwfr15">
+                <num type="silence">2</num>
+            </span>
+            <span from="#ikwfr16">
+                <num type="silence">2</num>
+            </span>
+        </ns:annotationGrp>
+    </ns:annotations>
+</ns:standOff></ns:standOff>
+</TEI>
